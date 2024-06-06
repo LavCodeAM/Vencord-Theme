@@ -1,2 +1,2 @@
-# Vencord-Theme
-My personal Vencord theme
+# My Personal Vencord Theme
+
